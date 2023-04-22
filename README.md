@@ -8,7 +8,18 @@ In the first part, it identifies the most suitable optimized missiles for the ta
 
 In the second part, it uses Java Swing to animate these operations.
 
+-------------------
 
+## Entities
+
+Plane: F4-F16-Akinci-İHA 
+
+Missile: Bozdogan-Gokdogan-HGK82-HGK83-HGK84-KGK82-KGK83-SOMA-SOMB1-SOMB2-SOMJ
+
+Target_Types: Bina-Sığınak-Araba-Uçak
+
+
+    Not: Each plane, missile, and target has different characteristics. These characteristics are taken into consideration when planning the operation.
 
 ## Start
 
